@@ -1,0 +1,201 @@
+Month,Category,Region,Sales,UnitsSold,Profit
+Apr,Electronics,East,12571,154,3398.19
+Oct,Clothing,West,31714,224,6366.46
+Oct,Sports,North,39957,203,6625.81
+Oct,Sports,East,22737,378,4304.32
+Sep,Clothing,North,38117,485,8916.91
+Feb,Electronics,West,42335,198,5809.49
+Aug,Clothing,North,27465,392,5108.03
+Dec,Clothing,West,14518,302,2668.92
+Apr,Sports,East,24920,468,5754.61
+Jan,Beauty,South,34035,203,10142.91
+Sep,Clothing,North,40481,201,11459.88
+Feb,Books,South,39997,344,8909.62
+Nov,Beauty,West,17449,127,4655.15
+Feb,Electronics,North,49202,445,9011.17
+Jan,Clothing,North,47892,391,8656.99
+Dec,Beauty,South,14285,362,3730.61
+Mar,Sports,West,11693,329,2757.81
+Mar,Electronics,North,18499,375,5543.28
+Aug,Books,East,34445,179,10048.95
+Jan,Electronics,North,12904,483,2832.57
+Jun,Home & Kitchen,North,35357,464,8655.24
+Feb,Books,East,21327,145,3136.16
+Feb,Sports,East,7309,450,2076.06
+Feb,Beauty,North,40615,318,5012.52
+Sep,Electronics,South,15694,417,2591.39
+Jan,Electronics,West,43275,470,8373.62
+Oct,Books,East,20151,123,3400.52
+May,Sports,North,13677,145,2542.07
+Nov,Books,East,17274,51,3657.04
+Aug,Clothing,West,39615,419,5714.6
+Jun,Beauty,North,20346,414,3648.7
+Jul,Books,East,43541,198,11076.16
+Mar,Sports,South,27613,442,5933.83
+Mar,Sports,East,14395,400,2900.89
+Feb,Sports,South,37361,109,6446.51
+Jun,Beauty,East,47771,246,5961.02
+Nov,Electronics,South,26185,350,3894.44
+Jul,Home & Kitchen,West,21404,448,3680.35
+Dec,Beauty,West,15201,286,1686.65
+Jan,Books,East,21162,170,4933.47
+Dec,Electronics,North,32364,486,8325.75
+Jan,Beauty,West,34430,184,8755.31
+Oct,Electronics,East,5287,473,784.94
+Oct,Electronics,South,45745,200,11155.92
+Aug,Beauty,West,24438,106,4779.0
+Apr,Electronics,South,12988,174,2890.04
+Sep,Electronics,East,26530,240,3324.43
+Aug,Books,East,16803,54,2439.42
+Jul,Clothing,South,49954,258,10861.51
+Jul,Clothing,South,14345,259,3881.23
+Dec,Books,South,8602,267,2135.33
+Apr,Sports,East,16724,489,1816.54
+Aug,Home & Kitchen,West,28947,233,7653.33
+Jun,Home & Kitchen,North,14950,99,4054.38
+Apr,Electronics,North,45871,371,11261.31
+Sep,Books,West,30365,72,6395.1
+Aug,Beauty,East,38992,158,5922.26
+Sep,Electronics,North,28989,90,4553.41
+Oct,Books,East,28055,170,4187.48
+Mar,Sports,East,40431,469,5169.25
+Apr,Clothing,East,14864,453,1631.64
+May,Home & Kitchen,East,48786,271,6612.2
+Oct,Clothing,East,16497,493,2077.8
+Apr,Electronics,West,14190,248,3695.06
+Dec,Sports,South,42503,433,9682.25
+Apr,Electronics,South,6989,105,986.46
+Mar,Clothing,South,34391,206,9079.86
+Feb,Beauty,East,10035,202,1742.13
+Jan,Beauty,East,24512,378,2909.15
+May,Home & Kitchen,South,42082,284,6546.62
+Feb,Sports,South,31300,424,8910.36
+Dec,Books,West,16985,385,4983.9
+Apr,Home & Kitchen,West,23814,325,3340.64
+Nov,Electronics,North,11021,303,3286.26
+May,Beauty,West,38656,476,5883.4
+May,Electronics,West,25517,438,4235.46
+Jun,Clothing,West,16565,174,3840.02
+Jun,Beauty,South,15136,329,3239.29
+Jan,Beauty,South,35881,367,7096.36
+Dec,Electronics,East,39369,336,6257.01
+Nov,Sports,West,22351,220,6495.97
+Jul,Sports,East,10867,439,2932.13
+Mar,Sports,West,42554,377,8581.63
+Dec,Clothing,East,19126,198,2614.06
+Apr,Clothing,South,18981,157,3902.09
+Sep,Books,South,44820,192,5886.83
+Jan,Home & Kitchen,South,27838,180,7004.45
+Apr,Electronics,North,16900,307,2257.7
+Jul,Clothing,West,47411,261,13710.78
+Feb,Home & Kitchen,East,14934,388,3136.77
+Jul,Home & Kitchen,West,21079,339,5624.66
+Feb,Electronics,East,35179,84,7842.75
+Dec,Beauty,South,13751,237,1909.04
+Dec,Sports,East,23096,244,5103.02
+Oct,Clothing,South,12758,78,2655.41
+Jan,Books,North,41032,397,5847.07
+May,Books,South,6910,119,885.95
+Aug,Electronics,North,28570,120,6093.01
+Nov,Sports,South,45734,456,10482.49
+Jan,Home & Kitchen,West,48537,274,12388.99
+Jan,Home & Kitchen,East,6749,58,1524.23
+Oct,Home & Kitchen,West,15937,210,4528.27
+Sep,Electronics,South,23785,279,6226.23
+Jan,Beauty,South,45466,280,12410.81
+Jun,Home & Kitchen,East,12830,50,1848.43
+Dec,Clothing,West,26237,310,5057.99
+Dec,Electronics,West,41153,95,11049.86
+Nov,Clothing,East,7071,212,1130.32
+Nov,Clothing,East,49406,284,8345.7
+Dec,Home & Kitchen,North,20960,83,6285.58
+May,Beauty,South,48431,426,13451.76
+Jan,Books,West,23636,262,4182.58
+Jan,Electronics,East,49960,113,11151.87
+Jan,Sports,West,7754,121,1524.46
+Apr,Clothing,East,11410,311,2577.75
+Jul,Beauty,East,41727,109,5885.47
+Jun,Home & Kitchen,North,36968,280,9175.72
+Oct,Electronics,West,15281,343,2657.86
+Oct,Sports,North,26632,273,4716.58
+Oct,Sports,South,46540,221,11664.98
+Feb,Sports,South,16525,165,2074.84
+Jul,Clothing,North,12336,238,2195.11
+Feb,Home & Kitchen,South,26683,434,4760.0
+Oct,Electronics,West,16023,221,2873.49
+Oct,Electronics,West,27801,73,6837.31
+Mar,Clothing,East,43653,307,5583.67
+Dec,Electronics,South,28147,132,8246.35
+Sep,Clothing,North,44115,207,11542.54
+Apr,Books,West,33750,158,6998.58
+May,Clothing,West,17955,271,2886.76
+Nov,Home & Kitchen,South,41502,261,7767.52
+Jun,Clothing,South,25558,445,4785.66
+Feb,Beauty,West,49820,138,12000.61
+Oct,Clothing,North,29919,121,7279.85
+Jul,Books,South,29362,288,6841.56
+Jul,Books,North,48035,327,7982.77
+Dec,Home & Kitchen,East,8801,148,1888.33
+Mar,Books,West,6960,471,1814.17
+Oct,Sports,East,15540,328,4551.11
+Jun,Beauty,South,42548,495,7615.61
+Aug,Beauty,South,26423,421,4375.89
+Nov,Electronics,South,27537,166,3984.8
+Aug,Books,North,26225,374,4155.53
+Jun,Sports,South,16752,285,2474.63
+Apr,Electronics,South,47013,167,8936.91
+Feb,Books,West,32711,198,4687.9
+Dec,Clothing,East,22413,291,6137.06
+Jul,Books,North,37354,163,4793.3
+Apr,Beauty,East,36553,406,5156.48
+Mar,Electronics,West,31503,387,3809.54
+Feb,Home & Kitchen,East,17885,184,3344.27
+Jul,Electronics,East,40642,138,7731.0
+Jun,Books,South,6735,282,1993.26
+Jul,Books,East,48282,201,9806.03
+Sep,Books,North,16601,271,4548.21
+Apr,Books,East,48717,418,13571.78
+Jan,Clothing,North,37734,119,6421.86
+Jan,Beauty,West,30294,454,3355.52
+Jan,Clothing,West,15213,386,3460.6
+Jan,Electronics,East,7740,496,1714.41
+Jul,Books,East,38281,383,7726.42
+Sep,Home & Kitchen,East,35230,84,6426.78
+Apr,Beauty,North,23396,333,6883.47
+Apr,Clothing,North,24159,383,4516.68
+Nov,Sports,East,33832,144,3970.77
+Dec,Home & Kitchen,North,35573,321,4141.67
+Jun,Books,East,22209,418,3672.79
+Feb,Sports,East,13741,299,2078.13
+Jun,Sports,East,40201,237,5897.35
+May,Books,South,46918,399,11974.89
+Dec,Electronics,East,27575,225,7894.82
+Jul,Home & Kitchen,West,24123,288,5051.76
+Jan,Beauty,South,43527,167,5061.18
+Jul,Sports,East,27057,251,3160.4
+Oct,Home & Kitchen,North,49681,167,8371.51
+Jul,Beauty,East,13683,375,2724.04
+Jan,Beauty,North,31566,118,7185.99
+Jun,Books,West,12744,443,3768.46
+Aug,Home & Kitchen,East,14953,278,4455.22
+Feb,Books,North,40274,183,8327.56
+Apr,Clothing,West,32731,243,3310.42
+Jul,Electronics,South,11148,376,3207.48
+Jun,Home & Kitchen,West,16779,83,3276.5
+Jul,Beauty,South,20087,442,3342.28
+Jan,Home & Kitchen,West,32335,441,9300.75
+Jan,Electronics,East,19498,123,4712.01
+Nov,Books,East,43178,444,9662.13
+Oct,Electronics,South,39999,301,4547.17
+Mar,Home & Kitchen,North,28099,482,5149.11
+Aug,Beauty,East,16184,422,3582.67
+May,Home & Kitchen,North,25562,236,6567.08
+Jun,Books,East,36838,200,5732.22
+Aug,Beauty,South,49617,313,7407.33
+Mar,Home & Kitchen,North,44896,290,10592.17
+Feb,Clothing,West,23095,112,5839.23
+Jul,Beauty,South,47262,353,12743.05
+Nov,Books,North,41983,183,9771.15
+Jun,Electronics,West,38736,86,4751.22
+Mar,Sports,East,26354,67,5355.1
+May,Electronics,West,10296,337,3003.25
